@@ -22,7 +22,7 @@ description:    >
     </div>
     <div class="form-group">
       <label for="message">Message:</label>
-      <textarea class="form-control" name="message" placeholder="Your message (required)" required></textarea>
+      <textarea class="form-control" name="message" placeholder="Your message (required)" rows="10" required></textarea>
     </div>
 
     <!-- Honeypot Spam Protection -->
