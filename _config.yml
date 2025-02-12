@@ -55,7 +55,7 @@ menu:
   # - title:             Résumé*
   #   url:               /resume/
   - title:             Documentation
-    url:               /docs/
+    url:               /documentation/
   - title:             On GitHub
     url:               https://github.com/agkozak/zcomet
   - title:             Contact
