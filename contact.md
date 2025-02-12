@@ -3,7 +3,7 @@ layout: 	page
 title:		Contact Me
 permalink:	/contact/
 description:    >
-  Contact the mewith questions and information.
+  Contact me with questions and information.
 ---
 
 <form action="https://api.web3forms.com/submit" method="POST">
