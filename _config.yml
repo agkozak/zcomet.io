@@ -72,7 +72,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Copyright © 2021-2025 Alexandros Kozak. All rights reserved.
+copyright:             Copyright © 2021-2026 Alexandros Kozak. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
